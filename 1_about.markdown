@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Ordinary Relating
+Ordinary Relating 
